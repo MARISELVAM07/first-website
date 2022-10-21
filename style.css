@@ -3,9 +3,9 @@
 }
 body{
     display:flex;
-    flex-direction: column;
-    height:100vh;
-    background-color: crimson;
+    flex-direction:column;
+    
+    
     
 
 }
@@ -13,10 +13,10 @@ body{
 /* header */
 .header{
     display:flex;
-    justify-content: space-between;
+    justify-content:space-between;
     padding: 20px 30px;
-    align-items: center;
-    background-color: chartreuse;
+    align-items:center
+    
     
    
 }
@@ -49,7 +49,7 @@ body{
 }
 .mainBody img {
     object-fit:contain;
-    height:200px;
+    height:100px;
     
 }
 
